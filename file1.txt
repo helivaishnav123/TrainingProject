@@ -1,3 +1,8 @@
 This is my 1st file.
 Going to check this into Git.
+<<<<<<< Updated upstream
 My name is Heli!
+=======
+Modifying this file.
+To track changes.
+>>>>>>> Stashed changes
